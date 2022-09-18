@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Patrickeng1
 - 👀 I’m interested in learning.
+- HTML, CSS, Java, JavaScript, SQL, PHP, VBA, Python.
 - 🌱 I’m currently learning Java, Kotlin, and increase VBA at LibreOffice Calc.
 - 💞️ I’m looking to collaborate on programming.
 - 📫 How to reach me ... patrickws1994@gmail.com
